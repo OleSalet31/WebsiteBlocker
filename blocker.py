@@ -1,6 +1,3 @@
-#website blocker using terminal by changing the hosts file
-#made by Ole Salet
-#last edited: 07-06-2021
 
 import time
 from datetime import datetime as dt
